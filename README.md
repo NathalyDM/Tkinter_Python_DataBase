@@ -1,4 +1,4 @@
-# Tkinder_Python_DataBase
+# Tkinter_Python_DataBase
 Introduction to Computer Science Programming
 Final Project - 2018-2
 User: Nathaly
